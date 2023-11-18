@@ -7,6 +7,7 @@ import { Navbar } from "./components/Navbar1";
 import { Header } from './components/Header';
 import "bootstrap";
 import Footer from './components/Footer';
+import { useState } from 'react';
 
 
 function App() {
@@ -61,6 +62,7 @@ function App() {
   }
     
   ];
+  
   return (
     <div className="App">
       <Router>

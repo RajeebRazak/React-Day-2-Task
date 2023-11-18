@@ -18,7 +18,7 @@ import { Link } from "react-router-dom";
                             </div>
                            
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><button className="btn btn-outline-dark mt-auto" to="#">Add to Cart</ button></div>
+                                <div className="text-center"><button className="btn btn-outline-dark mt-auto">Add to Cart</ button></div>
                             </div>
                         </div>
                     </div>
